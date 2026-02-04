@@ -6,8 +6,6 @@ This project focuses on building an advanced and scalable text classification sy
 ## Project Overview
 The system leverages LangChain to orchestrate LLM-powered pipelines for text classification. By integrating transformer-based models such as **GPT-J**, **GPT-NeoX**, and **DialoGPT**, the project explores trade-offs between performance, computational cost, and deployment feasibility.
 
-The work emphasizes open-source development, ethical AI practices, and real-world applicability across healthcare, environmental science, and conversational AI use cases :contentReference[oaicite:0]{index=0}.
-
 ## Objectives
 - Build a reliable and accurate text classification framework using LangChain  
 - Enhance contextual and sentiment-level understanding of text  
@@ -55,8 +53,8 @@ The implementation demonstrates how LLMs can be adapted from generation-focused 
 
 ## Author
 **Alina Hasan**  
-MS Data Science, Johns Hopkins University  
+BS Computer Science, University of Missouri Kansas City
 Student Research Assistant  
 
 ## Acknowledgments
-Special thanks to faculty advisor **Yusuf Sarkar** for guidance and support throughout this research :contentReference[oaicite:3]{index=3}.
+Special thanks to faculty advisor **Yusuf Sarkar** for guidance and support throughout this research.
