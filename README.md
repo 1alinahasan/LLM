@@ -54,7 +54,7 @@ The implementation demonstrates how LLMs can be adapted from generation-focused 
 ## Author
 **Alina Hasan**  
 - Student Research Assistant 
-BS Computer Science, University of Missouri Kansas City
+- BS Computer Science, University of Missouri Kansas City
 
 
 ## Acknowledgments
